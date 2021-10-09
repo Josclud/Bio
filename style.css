@@ -1,0 +1,27 @@
+body {
+  background-color: #efeee7;
+}
+
+h1 {
+  background-color: grey;
+  text-align: center;
+  color: white;
+}
+
+#image{
+  padding-right: 4px;
+}
+
+#main-bio, #image,
+#contact-info {
+  float: left;
+}
+
+#main-bio {
+  width: 70%;
+}
+
+
+#contact-info {
+  width: 30%;
+}
